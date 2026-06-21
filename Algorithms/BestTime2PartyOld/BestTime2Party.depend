@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670357798 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\besttime2party\besttime2party.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
+1669678412 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\besttime2party\besttime2party - other solution.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
