@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677094467 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a3f1\a3f1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

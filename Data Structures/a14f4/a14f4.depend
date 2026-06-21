@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682194440 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a14f4\a14f4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680201501 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a2uf4\a2uf4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
