@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676022383 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a11f9\a11f9.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+	"string.h"
+

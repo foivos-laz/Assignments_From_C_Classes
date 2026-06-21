@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673972501 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a8f8\a8f8.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+

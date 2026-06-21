@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670878297 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a6f6\a6f6.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
