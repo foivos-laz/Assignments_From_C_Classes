@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682865742 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a33f5\a33f5.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

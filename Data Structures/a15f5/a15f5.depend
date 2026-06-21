@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683744466 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a15f5\a15f5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

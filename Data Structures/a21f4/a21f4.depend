@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679172047 source:c:\users\Φοίβος Λαζαρίδης\codeblocks\projects\a21f4\a21f4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
